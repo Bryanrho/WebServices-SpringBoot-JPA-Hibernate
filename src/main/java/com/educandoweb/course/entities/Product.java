@@ -1,4 +1,4 @@
-package com.educandoweb.course.entitities;
+package com.educandoweb.course.entities;
 
 import java.io.Serializable;
 import java.util.HashSet;
